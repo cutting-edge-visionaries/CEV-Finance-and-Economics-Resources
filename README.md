@@ -43,3 +43,4 @@ List of some really awesome online courses in the world of Finance and Economics
 ## Research Papers
 
 1. [Hierarchial Risk Parity [Portfolio Optimization Algorithm]](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2708678_code87814.pdf?abstractid=2708678&mirid=1)
+2. [Momentum with volatility timimg](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3417360)
