@@ -13,7 +13,7 @@ List of some really awesome online courses in the world of Finance and Economics
 * [Econometrics](https://www.coursera.org/learn/erasmus-econometrics)
 
 **YouTube**
-* Khane Academy's Micro and Macroeconomics
+* Khan Academy's Micro and Macroeconomics
 * [Principles of Microeconomics - MIT OCW](https://www.youtube.com/playlist?list=PL61533C166E8B0028)
 * [Development Economics - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP63-t0r0aC3noJiIOmj33S_Q)
 * [Game Theory with Ben Polak - Yale](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
@@ -44,3 +44,4 @@ List of some really awesome online courses in the world of Finance and Economics
 
 1. [Hierarchial Risk Parity [Portfolio Optimization Algorithm]](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2708678_code87814.pdf?abstractid=2708678&mirid=1)
 2. [Momentum with volatility timimg](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3417360)
+3. [3 Quant lessons from COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562025)
