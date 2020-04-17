@@ -36,6 +36,10 @@ List of some really awesome online courses in the world of Finance and Economics
 
 [To be Updated]
 
+## Misc.
+
+1. [Introduction to momentum strategies in Finance](https://www.youtube.com/watch?v=F2TTfZzigYk)
+
 ## Research Papers
 
 1. [Hierarchial Risk Parity [Portfolio Optimization Algorithm]](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2708678_code87814.pdf?abstractid=2708678&mirid=1)
