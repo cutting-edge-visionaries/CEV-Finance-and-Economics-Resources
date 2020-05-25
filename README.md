@@ -30,7 +30,7 @@ List of some really awesome online courses in the world of Finance and Economics
 
 ## Books
 
-[To be Updated]
+* [Finance and Data Science Books](https://github.com/Howon/ReadingList/tree/master/Books)
 
 ## Articles
 
