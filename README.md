@@ -1,5 +1,5 @@
 # AryavartaResources
-This is an exhaustive list of resources for CEV's Aryavarta from the world of Finance and Economics. We regularly update it to suit our daily discussions in Aryavarta.
+This is a list of resources for CEV's Aryavarta from the world of Finance and Economics. We regularly update it to suit our daily discussions in Aryavarta.
 
 ## MOOCs
 
@@ -35,6 +35,11 @@ List of some really awesome online courses in the world of Finance and Economics
 ## Articles
 
 [To be Updated]
+
+## Algorithmic Trading 
+
+1. [Bollinger Bands Squeeze](https://www.investopedia.com/articles/technical/04/030304.asp)
+2. [Using Bollinger Bands to Gauge Trends](https://www.investopedia.com/trading/using-bollinger-bands-to-gauge-trends/)
 
 ## Misc.
 
